@@ -127,7 +127,7 @@ export default function Home() {
           </div>
         </main>
       </div>
-      <footer className="bg-zinc-800 border-t border-zinc-700 p-6 flex justify-between items-center">
+      <footer className="bg-zinc-800 border-t border-zinc-700 p-6 py-4 flex justify-between items-center">
         <div className='flex items-center gap-3'>
           <Image src="/album.jpg" width={56} height={56} alt="Capa do álbum The Eminem Show" />
           <div className='flex flex-col'>
